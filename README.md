@@ -4,12 +4,12 @@ Cette application de portefeuille est conçue pour gérer les transactions finan
 
 ## Langages de Programmation
 
-L'application est implémentée en utilisant plusieurs langages de programmation :
+L'application est implémentée en utilisant plusieurs langages de programmation (chemin pour chaque branches):
 
-1. **Java**
-2. **JavaScript** (Node.js)
-3. **Python**
-4. **PHP**
+1. [java](https://github.com/hei-school/my-wallet-fetraandri/tree/feature/java)
+2. [javascript](https://github.com/hei-school/my-wallet-fetraandri/tree/feature/javascript)
+3. [python](https://github.com/hei-school/my-wallet-fetraandri/tree/feature/python)
+4. [php](https://github.com/hei-school/my-wallet-fetraandri/tree/feature/php)
 
 ## Java
 
